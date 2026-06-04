@@ -6,6 +6,8 @@ public class Kanchan {
 		
 		System.out.println("Hey!");
 		
+		System.out.println("Hello");
+		
 	}
 
 }
