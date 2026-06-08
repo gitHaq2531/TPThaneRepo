@@ -25,7 +25,7 @@ public class Aditya_task {
 		for(WebElement x:we1 )
 		System.out.println(x.getText());
 		System.out.println("new commit");
-		
+		System.out.println("new commit 8-6-26");
 
 
 
