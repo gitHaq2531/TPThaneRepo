@@ -25,10 +25,12 @@ public class Abhishek_prokabbadi_task {
 				"//ul[@class=\"form-listing\" and contains(.,'WWW')]/parent::div[@class=\"table-data form\"]/preceding-sibling::div[@class=\"table-data team\"]"));
 
 		for (WebElement name : ele) {
-
+			System.out.println(name);
 			String st = name.getText();
 			System.out.println(st);
 		}
+		
+	System.out.println("test execution succsesully");
 	
 	}
 }
