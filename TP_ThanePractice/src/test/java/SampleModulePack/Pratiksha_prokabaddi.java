@@ -25,6 +25,10 @@ public class Pratiksha_prokabaddi {
 	    	   String s=row.getText();
 	    	   System.out.println(s);
 	    	   
+	    	   
+	    	   System.out.println("prokabaddi1");
+	    	   System.out.println("prokabaddi2");
+	    	   
 	       }
 	       
 	       
