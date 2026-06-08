@@ -26,6 +26,8 @@ public class Aditya_task {
 		System.out.println(x.getText());
 		System.out.println("new commit");
 		System.out.println("new commit 8-6-26");
+		System.out.println("new commit 8-6-26 by command");
+		
 
 
 
