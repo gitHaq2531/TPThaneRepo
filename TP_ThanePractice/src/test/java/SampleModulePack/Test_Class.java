@@ -10,6 +10,10 @@ public class Test_Class {
 		
 		System.out.println("Test");
 		
+		System.out.println("Second Test Statement");
+		
+		System.out.println("Third Test Statement");
+		
 	}
 
 }
